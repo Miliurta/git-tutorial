@@ -1,6 +1,7 @@
 # Git
 
 ## ¿Qué es git?
+es un controla de versiones
 
 ## ¿Qué es github?
 
